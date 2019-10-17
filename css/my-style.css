@@ -1,0 +1,33 @@
+/* To Change Color OF Form Box Shadow */
+
+.form-control:focus {
+        border-color: #dc3545;
+        box-shadow: 0 0 0 0.2rem #dc3545;
+    } 
+
+/*--------------------------------------*/
+
+.fixed-top{
+    z-index: 999999 !important;
+}
+.top-links{
+    text-align: center;
+}
+
+.top-links:hover{
+    
+    color: #dc3545 !important;
+}
+
+.bottom-links{
+    
+    text-align: center;
+    
+}
+.bottom-links:hover a{
+    
+    background-color: white !important;
+    color: #dc3545 !important;
+    
+}
+
